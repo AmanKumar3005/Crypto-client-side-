@@ -34,10 +34,6 @@ Arc Invoice is a feature-rich invoice generator web application built using the 
 
 6. Tailwind CSS: A utility-first CSS framework for quickly building custom designs.
 
-## Project Structure
-Client-side repository: [link](https://github.com/VedantNikhare/invoice-generator-client)
-
-Server-side repository: [Link](https://github.com/VedantNikhare/invoice-generator-server)
 
 ## Configuration and Setup
 
